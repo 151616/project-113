@@ -1,0 +1,20 @@
+canvas{
+    animation-name: canvas-shadow;
+    animation-iteration-count: infinite;
+    animation-duration: 20s;
+}
+@keyframes canvas-shadow{
+0% {box-shadow: 1px 1px 30px blue;}
+10%{box-shadow: 1px 1px 30px red;}
+20%{box-shadow: 1px 1px 30px lightgreen;}
+30%{box-shadow: 1px 1px 30px purple;}
+40%{box-shadow: 1px 1px 30px navy}
+50%{box-shadow: 1px 1px 30px orange;}
+60%{box-shadow: 1px 1px 30px yellow;}
+70%{box-shadow: 1px 1px 30px brown;}
+80%{box-shadow: 1px 1px 30px gray;}
+90%{box-shadow: 1px 1px 30px pink;}
+100%{box-shadow: 1px 1px 30px blue;}
+
+
+}
